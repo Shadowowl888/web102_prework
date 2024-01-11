@@ -25,7 +25,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<href src='https://imgur.com/SfAuTsG' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./assets/WebApp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://imgur.com/SfAuTsG)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap and imgur.
